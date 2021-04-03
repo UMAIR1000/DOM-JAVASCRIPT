@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+h1{
+    text-align: center;
+    text-align: center;
+    font-size: 8vw;
+    margin-top: 0;
+}
+p{  font-size: 3vw;
+}
+.fresh{
+    text-align: center;
+    font-size: 5vw;
+    margin-bottom: 0;
+    }
+.one{
+    margin-top:0 ;
+    float: left;
+    padding-left: 29.5%;
+}
+.twooo{ 
+    margin-left: 0;
+    position: relative;
+
+    padding-left: -10%;
+}
+.img{
+    display: inline;
+  position: relative;
+  right: 14.2%;
+    width: 15%;
+    float: left;
+    padding-top: 10.5%;
+     }
+.imgs{
+    position: relative;
+    right: 12%;
+    width: 15%;
+    float: left;
+    padding-bottom: 8%;
+    padding-top: 3%;
+    padding-left: 11.5%;
+    }
+body{
+    
+    font-family: Reggae One;
+    color: #C3073F; 
+    background-color: #1A1A1D;
+}
+footer{
+    font-size: 1.5vw;
+   
+   text-align: right;
+    padding-top: 0;
+    /* float:inline-end; */
+}
+
+.logo{
+    margin-top: 0;
+    margin-bottom: 0;
+}
